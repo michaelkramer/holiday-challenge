@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import _ from "lodash";
+//import _ from "lodash";
 import "./App.less";
 import data from "./data/question";
 import { Layout, Row, Col, Button, Card } from "antd";

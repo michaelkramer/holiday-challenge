@@ -22,6 +22,7 @@ const data: Data = {
       ),
       answer: "Swing the gnome around and then drop them over the wall",
     },
+    { description: "Balance a spoon on your nose" },
     {
       question: "Which harry potter character is Holy",
       answer: "George Weasley",
@@ -65,14 +66,19 @@ const data: Data = {
     { question: "What is the name of Dean's car?", answer: "Baby" },
     { question: "What does Dean order at a dinner?", answer: "Pie" },
     { question: "What is Buffy's weapon called?", answer: "Mr Pointy" },
+    { description: "Doughnut on a string" },
     { question: "What is Anya afraid of?", answer: "bunnies" },
     {
       question: "When did the Red Sox win the World Series?",
       answer: "2018, 2013, 2007, 2004, 1918, 1916, 1915, 1912, 1903",
     },
+    { description: "Stack my nuts" },
     {
       question: "Who did the Red Sox trade in 2004?",
       answer: "Nomar Garciaparra",
+    },
+    {
+      description: "Cut down the mightiest tree in the forest—with a herring!",
     },
     {
       question: "Who is the GOAT?",
@@ -92,12 +98,6 @@ const data: Data = {
     //   description: "Wrap this present, blindfolded",
     //   followUpQuestion: { description: "Unwrap this present with oven mitts" },
     // },
-    { description: "Balance a spoon on your nose" },
-    { description: "Doughnut on a string" },
-    { description: "Stack my nuts" },
-    {
-      description: "Cut down the mightiest tree in the forest—with a herring!",
-    },
   ],
 };
 
