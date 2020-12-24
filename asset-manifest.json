@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/holiday-challenge/static/css/main.5f86df32.chunk.css",
-    "main.js": "/holiday-challenge/static/js/main.be576fae.chunk.js",
-    "main.js.map": "/holiday-challenge/static/js/main.be576fae.chunk.js.map",
+    "main.css": "/holiday-challenge/static/css/main.ac598b8d.chunk.css",
+    "main.js": "/holiday-challenge/static/js/main.c9a424e7.chunk.js",
+    "main.js.map": "/holiday-challenge/static/js/main.c9a424e7.chunk.js.map",
     "runtime-main.js": "/holiday-challenge/static/js/runtime-main.0ad0282c.js",
     "runtime-main.js.map": "/holiday-challenge/static/js/runtime-main.0ad0282c.js.map",
     "static/css/2.b7d785c5.chunk.css": "/holiday-challenge/static/css/2.b7d785c5.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.17a73790.chunk.js.map": "/holiday-challenge/static/js/3.17a73790.chunk.js.map",
     "index.html": "/holiday-challenge/index.html",
     "static/css/2.b7d785c5.chunk.css.map": "/holiday-challenge/static/css/2.b7d785c5.chunk.css.map",
-    "static/css/main.5f86df32.chunk.css.map": "/holiday-challenge/static/css/main.5f86df32.chunk.css.map",
+    "static/css/main.ac598b8d.chunk.css.map": "/holiday-challenge/static/css/main.ac598b8d.chunk.css.map",
     "static/js/2.cf690994.chunk.js.LICENSE.txt": "/holiday-challenge/static/js/2.cf690994.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0ad0282c.js",
     "static/css/2.b7d785c5.chunk.css",
     "static/js/2.cf690994.chunk.js",
-    "static/css/main.5f86df32.chunk.css",
-    "static/js/main.be576fae.chunk.js"
+    "static/css/main.ac598b8d.chunk.css",
+    "static/js/main.c9a424e7.chunk.js"
   ]
 }
